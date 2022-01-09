@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = bibi.espeiorin@gmail.com
+	name = Bibi Ferreira
